@@ -1,0 +1,10 @@
+1 10 Kgn Toyota kgn.com 
+ 2 20 CLA Toyota cla.com 
+ 3 30 MBA Nissan nissan.com 
+ 1 10 papine ad1 house1.com jpg 
+ 2 20 papine adv2 house2.com jpg 
+ 3 30 Papine adv3 house3.com png 
+ 100 1000 jamaica toyota feddc png 
+ 132 100 jam ef efdfs png 
+ 23 242 edfew edefg 3rew png 
+ 
